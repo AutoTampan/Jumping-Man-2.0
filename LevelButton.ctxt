@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=LevelButton
+comment1.params=text\ levelClass
+comment1.target=LevelButton(java.lang.String,\ java.lang.Class)
+comment2.params=
+comment2.target=void\ act()
+numComments=3
